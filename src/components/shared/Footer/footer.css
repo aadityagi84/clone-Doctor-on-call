@@ -1,0 +1,13 @@
+#footer > li {
+  padding: 4% 05;
+  /* border: 2px solid red; */
+  margin-top: 15%;
+  list-style: none;
+}
+#footer > li {
+  transition: all 0.5s ease-in;
+}
+#footer > li:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
